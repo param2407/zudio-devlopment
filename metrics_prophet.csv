@@ -1,0 +1,2 @@
+Model,RMSE,MAE,MAPE (%),R2 Score
+Prophet,3.26,2.16,146.93,-0.0193
